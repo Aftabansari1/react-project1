@@ -10,6 +10,7 @@ const About = () => {
                 visit='/contact' 
                 btname='Contact NOw'
             />
+{/*              */}
         </>
     );
 };
